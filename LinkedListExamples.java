@@ -28,7 +28,7 @@ public class LinkedListExamples {
         //   System.out.println("size of linked list:"+l1.size());
         // System.out.println(l1);
         Object[] a = l1.toArray();
-        System.out.print("After converted LinkedList to Array: ");
+        System.out.print("After converted LinkedList to practiseprograms.Array: ");
         for(Object element : a)
             System.out.print(element+" ");
       /*  for (Object l : a) {

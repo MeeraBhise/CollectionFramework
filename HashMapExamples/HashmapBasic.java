@@ -21,8 +21,6 @@ public class HashmapBasic {
 
     public static void main(String[] args) {
         HashMap<HashmapBasic, String> s = new HashMap<>();
-
-
         HashmapBasic o1 = new HashmapBasic();
         o1.setAge(203);
         s.put(o1, "one");
